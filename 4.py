@@ -103,3 +103,4 @@ if __name__ == "__main__":
     vehicles = [transport, car1, car2, car3, car4, bike]
     for vehicle in vehicles:
         vehicle.move()
+    print("Ответ на вопрос: используется полиморфизм")
